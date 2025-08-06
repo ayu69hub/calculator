@@ -1,0 +1,43 @@
+.calc-btn{
+    height: 55px;
+    width: 60px;
+}
+
+.calc-display{
+    background-color: rgb(165, 165, 165);
+    color: rgb(0, 0, 0);
+    height: 100px;
+    width: 310px;
+    border-radius: 20px;
+}
+
+.inputString{
+    margin-top: 5px;
+    height: 20px;
+    display: block;
+    font-size: 20px;
+}
+
+.expressionString{
+    margin-top: 5px;
+    height: 20px;
+    display: block;
+    font-size: 20px;
+}
+
+.valueString{
+    margin-top: 5px;
+    height: 20px;
+    display: block;
+    font-size: 20px;
+}
+
+body{
+    justify-content: center;
+}
+
+.card{
+    border-radius: 50px solid black;
+    justify-content: center;
+}
+
